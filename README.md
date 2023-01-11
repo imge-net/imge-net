@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @imge-net
-- 👀 I’m interested in Jakarta EE, Glassfish, Fedora, PostgreSQL, Java, Python
+- 👀 I’m interested in Jakarta EE, Glassfish, Fedora, PostgreSQL, Java, Python, Julia
